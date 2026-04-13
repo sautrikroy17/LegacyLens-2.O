@@ -230,7 +230,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**© 2024 Sautrik Roy — Manipal Institute of Technology Sciences (MITS)**
+**© 2026 Sautrik Roy — Licensed under the [MIT License](LICENSE)**
 
 *Built for the competitive Hackathon space. Any resemblance to actual production-grade engineering is entirely intentional.*
 
