@@ -371,6 +371,13 @@ export default function Home() {
         </div>
       </section>
 
+      {/* MITS Copyright Footer */}
+      <footer style={{ textAlign: "center", padding: "40px 0 20px", borderTop: "1px solid var(--glass-border)", marginTop: "40px" }}>
+        <p style={{ color: "var(--text-secondary)", fontSize: "0.85em", letterSpacing: "0.05em" }}>
+          © {new Date().getFullYear()} Sautrik Roy &mdash; Manipal Institute of Technology Sciences (MITS). All rights reserved.
+        </p>
+      </footer>
+
     </main>
   );
 }
