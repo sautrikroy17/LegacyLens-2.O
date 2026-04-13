@@ -1,7 +1,7 @@
 "use client";
 
 import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion";
-import { Aperture, Hexagon, Database, Zap, DatabaseZap, Network, CheckCircle, Mic, MicOff, Settings, Type, ZoomIn, ZoomOut } from "lucide-react";
+import { Aperture, Database, Zap, DatabaseZap, Network, CheckCircle, Mic, MicOff, Settings, Type, ZoomIn, ZoomOut } from "lucide-react";
 import { useRef, useState, useEffect } from "react";
 
 export default function Home() {
@@ -181,7 +181,7 @@ export default function Home() {
       <nav style={{ padding: "20px 0", position: "fixed", width: "100%", zIndex: 50, backdropFilter: "blur(10px)", background: "rgba(3, 4, 11, 0.5)", borderBottom: "1px solid var(--glass-border)" }}>
         <div className="container" style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
           <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
-            <Hexagon color="var(--accent-color)" strokeWidth={2.5} size={28} />
+            <img src="/logo.png" alt="LegacyLens Logo" style={{ width: "32px", height: "32px", objectFit: "contain" }} />
             <span className="logo-gradient" style={{ fontSize: "1.6rem", fontWeight: "bold" }}>LegacyLens</span>
           </div>
           
@@ -371,10 +371,10 @@ export default function Home() {
         </div>
       </section>
 
-      {/* MITS Copyright Footer */}
+      {/* MIT Copyright Footer */}
       <footer style={{ textAlign: "center", padding: "40px 0 20px", borderTop: "1px solid var(--glass-border)", marginTop: "40px" }}>
         <p style={{ color: "var(--text-secondary)", fontSize: "0.85em", letterSpacing: "0.05em" }}>
-          © {new Date().getFullYear()} Sautrik Roy &mdash; Manipal Institute of Technology Sciences (MITS). All rights reserved.
+          © {new Date().getFullYear()} Sautrik Roy &mdash; Licensed under the MIT License. All rights reserved.
         </p>
       </footer>
 

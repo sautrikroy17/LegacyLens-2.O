@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# SQLite demo database
+*.db
+*.db-shm
+*.db-wal
+
+# Test/debug scripts
+test-*.mjs
+test-*.js
+
+# AI agent config (not needed in repo)
+AGENTS.md
+CLAUDE.md
