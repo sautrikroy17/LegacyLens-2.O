@@ -19,7 +19,9 @@ By unifying edge-runtime serverless inference via Next.js and advanced Pollinati
 
 ## 🚀 Deployment
 
-This application is officially deployed as a stateless architecture via **Vercel**.
+This application is officially deployed as a stateless architecture via **Vercel**. 
+
+👉 **[Live Production Application](https://legacy-lens-beta.vercel.app)**
 
 ## 🛠 Tech Stack
 
