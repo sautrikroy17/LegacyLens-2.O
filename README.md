@@ -14,7 +14,9 @@
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-legacy--lens--beta.vercel.app-38bdf8?style=for-the-badge)](https://legacy-lens-beta.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-sautrikroy17%2FLegacyLens--2.O-181717?style=for-the-badge&logo=github)](https://github.com/sautrikroy17/LegacyLens-2.O)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
-[![GSSoC'26](https://img.shields.io/badge/GSSoC'26-Open_Source-orange?style=for-the-badge&logo=girlscript)](https://gssoc.girlscript.tech/)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/sautrikroy17/LegacyLens-2.O/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 </div>
@@ -178,9 +180,9 @@ Uses WAL journal mode for performance. Schema exposed to AI for accurate query g
 
 ---
 
-## 🤝 Contributing (GSSoC Welcome!)
+## 🤝 Contributing
 
-We encourage contributions from the open-source community! If you are participating in **GirlScript Summer of Code (GSSoC)**, we would love to review your Pull Requests.
+We encourage contributions from the open-source community! We would love to review your Pull Requests.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
