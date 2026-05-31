@@ -21,6 +21,10 @@
 
 </div>
 
+![LegacyLens Screenshot](public/legacylens_screenshot.png)
+
+<br/>
+
 ---
 
 ## 📖 Overview
