@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sautrikroy17/LegacyLens-2.O/main/public/landing-preview.png" alt="LegacyLens 2.0 Landing Page" width="100%" style="border-radius:12px;" />
-
-<br/>
-<br/>
 
 # 🔷 LegacyLens 2.0
 
